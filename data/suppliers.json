@@ -1,0 +1,31 @@
+[
+  {
+    "name": "AFJ",
+    "phone": "971529720180",
+    "brands": [
+      "Dodge",
+      "Jeep",
+      "Chrysler",
+      "Ford"
+    ]
+  },
+  {
+    "name": "HAKS",
+    "phone": "971551478994",
+    "brands": [
+      "Toyota",
+      "Lexus",
+      "Nissan",
+      "Honda"
+    ]
+  },
+  {
+    "name": "AFJ IND",
+    "phone": "917358337981",
+    "brands": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ]
+  }
+]
